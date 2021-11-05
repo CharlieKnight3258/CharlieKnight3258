@@ -5,42 +5,40 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... No job
+- 🌱 I’m currently learning ...Hacking 
+- 👯 I’m looking to collaborate on ...No
+- 🤔 I’m looking for help with ... Study
+- 💬 Ask me about ... Anything 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Haha Charlie is my pet's name
 --><div align="center">
  <a href="https://ibb.co/6JHk8WK"><
-  <h1>🎲 I'm > тє¢нηι¢αℓ нα¢кєя 💀</h1>
+  <div align="center">
+
+  <h1>🎲 I'm > 🅲︎🅷︎🅰︎🆁︎🅻︎🅸︎🅴︎ 🅺︎🅽︎🅸︎🅶︎🅷︎🆃︎💀</h1>
+
 </div>
 
   <p align="center">
+
 <img
+
         src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=16&center=true&vCenter=true&multiline=true&lines=We+are+Technical+Hacking+Team+(Since+2021+%E0%A5%90)........"
+
             alt="Typing SVG"
+
         />
+
     </a> 
+
     
-  <div align="left">  
 
- ```
-@CharlieKnight3258 
+  <div align="left"> 
 
-		     
+  <h2>  🤩 Charlie Knight </h2>
 
-  
-  
-  
-  > wє αrє αnσnчmσus.🎭 wє αrє lєgíσn.👮🏻‍♂ wє dσ nσt fσrgívє.😼 wє dσ nσt fσrgєt.💀 єхpєct us. ⛓💎
->	
-> (Since 2021 ॐ)
-	
-	
-	
+  <h3> Learning... Hacking... </h3>
 
-	
-
+ 
