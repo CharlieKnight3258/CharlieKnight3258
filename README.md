@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
         src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=16&center=true&vCenter=true&multiline=true&lines=We+are+Technical+Hacking+Team+(Since+2021+%E0%A5%90)........"
 
-            alt="Typing SVG"
+
 
         />
 
@@ -40,5 +40,9 @@ Here are some ideas to get you started:
   <h2>  🤩 Charlie Knight </h2>
 
   <h3> Learning... Hacking... </h3>
+ 
+ ### Charlie Knight 
+ #Induwara P
+ I'm From Sri Lanka
 
  
